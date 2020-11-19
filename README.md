@@ -1,1 +1,1 @@
-Simple clone of Twitch's homepage using react and redux
+Simple clone of Twitch.tv using react and redux
