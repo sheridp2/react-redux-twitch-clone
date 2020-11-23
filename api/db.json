@@ -1,0 +1,9 @@
+{
+  "streams": [
+    {
+      "title": "My first stream",
+      "description": "It's a pretty cool stream",
+      "id": 1
+    }
+  ]
+}
