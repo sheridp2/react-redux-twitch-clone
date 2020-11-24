@@ -15,6 +15,12 @@
       "description": "Yep, a userId in the object",
       "userId": "103848882861806464459",
       "id": 3
+    },
+    {
+      "description": "This stream has history",
+      "title": "Programmatic Navigation",
+      "userId": "103848882861806464459",
+      "id": 4
     }
   ]
 }
