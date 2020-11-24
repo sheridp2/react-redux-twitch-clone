@@ -9,6 +9,12 @@
       "title": "Stream number2",
       "description": "The second stream!",
       "id": 2
+    },
+    {
+      "title": "This stream has a userId",
+      "description": "Yep, a userId in the object",
+      "userId": "103848882861806464459",
+      "id": 3
     }
   ]
 }
